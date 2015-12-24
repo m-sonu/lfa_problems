@@ -1,0 +1,4 @@
+launch anaconda prompt
+d:
+cd class
+jupyter-notebook enter
